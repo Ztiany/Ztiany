@@ -1,4 +1,4 @@
-🌱 I’m currently learning android, front-end and back-end.
+🌱 I’m currently learning Android, front-end and back-end.
 
 ### Github State
 
